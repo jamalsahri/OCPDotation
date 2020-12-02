@@ -10,8 +10,8 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 
 ## Environnement logiciel et technologies utilisées
-[<img align="left" alt="../main/JavaFX" width="60px" src="javafx96.svg" />][javafx]
-[<img align="left" alt="../main/JavaFX" width="60px" src="javafx96.svg" />][javafx]
+[<img align="left" alt="JavaFX" width="60px" src="/media/javafx96.svg" />][javafx]
+[<img align="left" alt="JavaFX" width="60px" src="/media/javafx96.svg" />][javafx]
 
 
 
