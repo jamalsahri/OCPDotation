@@ -8,12 +8,10 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 * Importation, analyse et traitement des fichier excel.
 ---
 ## Environnement logiciel et technologies utilisées
-[<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
 [<img align="left" alt="../main/JavaFX" width="60px" src="javafx96.svg" />][javafx]
 
 
 
 
 
-[java]: https://icons8.com/icon/13679/java
 [javafx]: https://icons8.com/icon/13679/java
