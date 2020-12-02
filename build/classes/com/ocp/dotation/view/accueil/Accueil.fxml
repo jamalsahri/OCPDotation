@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gn.GNCarousel?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane fx:id="root" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ocp.dotation.controller.AccueilController">
+   <children>
+      <VBox fx:id="slider" alignment="CENTER" stylesheets="@../theme/slider.css" StackPane.alignment="CENTER">
+         <children>
+            <GNCarousel fx:id="carousel" autoRide="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" transitionDuration="7000.0ms" VBox.vgrow="ALWAYS" />
+         </children>
+      </VBox>
+   </children>
+</StackPane>

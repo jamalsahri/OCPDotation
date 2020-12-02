@@ -1,0 +1,26 @@
+.slider1
+{
+	-fx-background-image:url('ocp.jpg');
+	-fx-background-size:cover;
+}
+.slider2
+{
+	-fx-background-image:url('ocp1.jpg');
+	-fx-background-size:cover;
+}
+.slider3
+{
+	-fx-background-image:url('ocp2.jpg');
+	-fx-background-size:cover;
+}
+.slider4
+{
+	-fx-background-image:url('ocp3.jpg');
+	-fx-background-size:cover;
+}
+.slider5
+{
+	-fx-background-image:url('ocp4.jpg');
+	-fx-background-size:cover;
+}
+
