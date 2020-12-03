@@ -2,7 +2,7 @@
 
 
 ## Objectif
-En visant l’amélioration de la gestion des dotations reçus au niveau du service informatique de l'OCP, j’ai confié la tâche de l’élaboration d’une application structuré facilitant la gestion de la décharge du matériels et qui consiste à:
+En visant l’amélioration de la gestion des dotations reçus au niveau du service informatique de l'[OCP](https://www.ocpgroup.ma/), j’ai confié la tâche de l’élaboration d’une application structuré facilitant la gestion de décharge du matériels et qui consiste à:
 * Ajouter des utilisateurs, des matériels et les dotations. 
 * Rechercher des utilisateurs, des matériels et les dotations.
 * Vérifier la réception des fichiers nécessaires pour le renouvellement du matériel.
@@ -50,8 +50,8 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 
 
-[javafx]: https://icons8.com/icon/13679/java
-[css]: https://icons8.com/icon/21278/css3
+[javafx]: https://openjfx.io/
+[css]: https://developer.mozilla.org/fr/docs/Web/CSS
 [mysql]: https://icons8.com/icon/21278/css3
 [netbeans]: https://icons8.com/icon/21278/css3
 [wamp]: https://icons8.com/icon/21278/css3
