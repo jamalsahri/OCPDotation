@@ -8,7 +8,6 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 * Vérifier la réception des fichiers nécessaires pour le renouvellement du matériel.
 * Importation, analyse et traitement des fichier excel.
 
-
 ### Environnement logiciel et technologies utilisées
 [<img align="left" alt="JavaFX" width="70px" src="/media/javafx96.svg" />][javafx]
 [<img align="left" alt="Mysql" width="80px" src="/media/mysql.svg" />][mysql]
@@ -24,8 +23,7 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 ### Interface d'authentification
 <img src="/media/Login1.png" alt="Login" />
-<br/>
-<br/>
+
 ### Interface d'Accueil
 <img src="/media/Acceuil.JPG" alt="Accueil1" />
 
