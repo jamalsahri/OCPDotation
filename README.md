@@ -11,9 +11,12 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 ## Environnement logiciel et technologies utilisées
 [<img align="left" alt="JavaFX" width="60px" src="/media/javafx96.svg" />][javafx]
-[<img align="left" alt="SceneBuilder" width="60px" src="https://iconscout.com/icon/mysql-19" />][javafx]
-[<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
-
+[<img align="left" alt="Mysql" width="60px" src="/media/mysql.svg" />][mysql]
+[<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
+[<img align="left" alt="NetBeans" width="60px" src="/media/1200px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+[<img align="left" alt="wamp" width="60px" src="/media/WampServer-logo.png" />][wamp]
+[<img align="left" alt="uml" width="60px" src="/media/UML_logo.svg.png" />][uml]
+[<img align="left" alt="poi" width="60px" src="/media/1280px-Apache_POI_project_logo_(2018).svg.png" />][poi]
 <br/>
 <br/>
 
@@ -24,3 +27,8 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 [javafx]: https://icons8.com/icon/13679/java
 [css]: https://icons8.com/icon/21278/css3
+[mysql]: https://icons8.com/icon/21278/css3
+[netbeans]: https://icons8.com/icon/21278/css3
+[wamp]: https://icons8.com/icon/21278/css3
+[uml]: https://icons8.com/icon/21278/css3
+[poi]: https://icons8.com/icon/21278/css3
