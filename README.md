@@ -29,18 +29,21 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 ## Interface d'Accueil
 <img src="/media/Acceuil.JPG" alt="Accueil1" />
 
+## Inetrface DMI
+<img src="/media/Decharge.png" alt="decharge" />
+
+## Inetrface d'importation des DMI
+<img src="/media/Screenshot (24).png" alt="dmi_poi_import" />
+
 ## Interface d'Utilisateur
 <img src="/media/Utilisateur.png" alt="user" />
 <img src="/media/Utilisateur-filtre(1).png" alt="user_with_filter1" />
-<img src="/media/Utilisateur-filtre(2).png" alt="user_with_filter2" />
 
 ## Interface du Materiel
 <img src="/media/Materiel.png" alt="materiel" />
 <img src="/media/Materiel-filtre(1).png" alt="materiel_with_filter1" />
 <img src="/media/Materiel-filtre(2).png" alt="materiel_with_filter2" />
 <img src="/media/Materiel-filtre(3).png" alt="materiel_with_filter3" />
-
-
 
 
 
