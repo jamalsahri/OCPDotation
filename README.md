@@ -9,7 +9,7 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 * Importation, analyse et traitement des fichier excel.
 
 
-## Environnement logiciel et technologies utilisées
+### Environnement logiciel et technologies utilisées
 [<img align="left" alt="JavaFX" width="70px" src="/media/javafx96.svg" />][javafx]
 [<img align="left" alt="Mysql" width="80px" src="/media/mysql.svg" />][mysql]
 [<img align="left" alt="CSS" width="70px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
@@ -22,24 +22,24 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 <br/>
 <br/>
 
-## Interface d'authentification
+### Interface d'authentification
 <img src="/media/Login1.png" alt="Login" />
 <br/>
 <br/>
-## Interface d'Accueil
+### Interface d'Accueil
 <img src="/media/Acceuil.JPG" alt="Accueil1" />
 
-## Inetrface DMI
+### Inetrface DMI
 <img src="/media/Decharge.png" alt="decharge" />
 
-## Inetrface d'importation des DMI
+### Inetrface d'importation des DMI
 <img src="/media/Screenshot (24).png" alt="dmi_poi_import" />
 
-## Interface d'Utilisateur
+### Interface d'Utilisateur
 <img src="/media/Utilisateur.png" alt="user" />
 <img src="/media/Utilisateur-filtre(1).png" alt="user_with_filter1" />
 
-## Interface du Materiel
+### Interface du Materiel
 <img src="/media/Materiel.png" alt="materiel" />
 <img src="/media/Materiel-filtre(1).png" alt="materiel_with_filter1" />
 <img src="/media/Materiel-filtre(2).png" alt="materiel_with_filter2" />
