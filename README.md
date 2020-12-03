@@ -52,9 +52,9 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 [javafx]: https://openjfx.io/
 [css]: https://developer.mozilla.org/fr/docs/Web/CSS
-[mysql]: https://icons8.com/icon/21278/css3
-[netbeans]: https://icons8.com/icon/21278/css3
-[wamp]: https://icons8.com/icon/21278/css3
-[uml]: https://icons8.com/icon/21278/css3
-[poi]: https://icons8.com/icon/21278/css3
-[scenebuilder]: https://icons8.com/icon/21278/css3
+[mysql]: https://www.mysql.com/fr/
+[netbeans]: https://fr.netbeans.org/
+[wamp]: https://www.wampserver.com/
+[uml]: https://fr.wikipedia.org/wiki/UML_(informatique)
+[poi]: https://poi.apache.org/
+[scenebuilder]: https://gluonhq.com/products/scene-builder/
