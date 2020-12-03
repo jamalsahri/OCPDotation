@@ -16,10 +16,10 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 [<img align="left" alt="NetBeans" width="60px" src="/media/1200px-Apache_NetBeans_Logo.svg.png" />][netbeans]
 [<img align="left" alt="wamp" width="60px" src="/media/WampServer-logo.png" />][wamp]
 [<img align="left" alt="uml" width="60px" src="/media/UML_logo.svg.png" />][uml]
+[<img align="left" alt="poi" width="60px" src="/media/1280px-Apache_POI_project_logo_(2018).svg.png" />][poi]
+<br/>
+<br/>
 
-<br/>
-<br/>
----
 ## Interface d'authentification
 <img src="/media/Login1.png" alt="Login" />
 
@@ -31,3 +31,4 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 [netbeans]: https://icons8.com/icon/21278/css3
 [wamp]: https://icons8.com/icon/21278/css3
 [uml]: https://icons8.com/icon/21278/css3
+[poi]: https://icons8.com/icon/21278/css3
