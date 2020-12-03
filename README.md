@@ -10,18 +10,20 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 
 
 ## Environnement logiciel et technologies utilisées
-[<img align="left" alt="JavaFX" width="60px" src="/media/javafx96.svg" />][javafx]
-[<img align="left" alt="Mysql" width="60px" src="/media/mysql.svg" />][mysql]
-[<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
+[<img align="left" alt="JavaFX" width="70px" src="/media/javafx96.svg" />][javafx]
+[<img align="left" alt="Mysql" width="80px" src="/media/mysql.svg" />][mysql]
+[<img align="left" alt="CSS" width="70px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
 [<img align="left" alt="NetBeans" width="60px" src="/media/1200px-Apache_NetBeans_Logo.svg.png" />][netbeans]
-[<img align="left" alt="wamp" width="60px" src="/media/WampServer-logo.png" />][wamp]
-[<img align="left" alt="uml" width="60px" src="/media/UML_logo.svg.png" />][uml]
+[<img align="left" alt="wamp" width="70px" src="/media/WampServer-logo.png" />][wamp]
+[<img align="left" alt="uml" width="90px" src="/media/UML_logo.svg.png" />][uml]
 [<img align="left" alt="scenebuilder" width="60px" src="/media/SceneBuilderLogo.png" />][scenebuilder]
-[<img align="left" alt="poi" width="60px" src="/media/1280px-Apache_POI_project_logo_(2018).svg.png" />][poi]
+[<img align="left" alt="poi" width="120px" src="/media/1280px-Apache_POI_project_logo_(2018).svg.png" />][poi]
 
 
 <br/>
 <br/>
+<br/>
+-----------------
 
 ## Interface d'authentification
 <img src="/media/Login1.png" alt="Login" />
