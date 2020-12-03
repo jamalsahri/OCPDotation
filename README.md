@@ -19,17 +19,26 @@ En visant l’amélioration de la gestion des dotations reçus au niveau du serv
 [<img align="left" alt="scenebuilder" width="60px" src="/media/SceneBuilderLogo.png" />][scenebuilder]
 [<img align="left" alt="poi" width="120px" src="/media/1280px-Apache_POI_project_logo_(2018).svg.png" />][poi]
 
-
 <br/>
 <br/>
 
 ## Interface d'authentification
 <img src="/media/Login1.png" alt="Login" />
+<br/>
+<br/>
 ## Interface d'Accueil
-<img src="/media/Acceuil.JPG" alt="Accueil" />
+<img src="/media/Acceuil.JPG" alt="Accueil1" />
 
+## Interface d'Utilisateur
+<img src="/media/Utilisateur.png" alt="user" />
+<img src="/media/Utilisateur-filtre(1).png" alt="user_with_filter1" />
+<img src="/media/Utilisateur-filtre(2).png" alt="user_with_filter2" />
 
-
+## Interface du Materiel
+<img src="/media/Materiel.png" alt="materiel" />
+<img src="/media/Materiel-filtre(1).png" alt="materiel_with_filter1" />
+<img src="/media/Materiel-filtre(2).png" alt="materiel_with_filter2" />
+<img src="/media/Materiel-filtre(3).png" alt="materiel_with_filter3" />
 
 
 
